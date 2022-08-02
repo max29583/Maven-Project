@@ -1,3 +1,5 @@
+Changing this line so that Jenkins catches the change and runs a build job
+
 Welcome to the DevOps test repository for Maven projects
 
 ************************************************************
